@@ -1,0 +1,28 @@
+name: hello_worldbyqiu_xi_903
+version: 1.0.0
+main: com.example.creativecommands.CreativeCommands
+api-version: 1.16
+load: STARTUP
+commands:
+  hello:
+    description: 显示大型标题"HELLO WORLD"
+    usage: /<command>
+
+    permission-message: §c你没有使用此命令的权限！
+  randomtp:
+    description: 将你随机传送到世界中的某个位置
+    usage: /<command> [范围]
+
+  weatherfun:
+    description: 切换有趣的天气效果
+    usage: /<command> [sun/rain/thunder]
+
+  emoji:
+    description: 向聊天发送大型表情符号
+    usage: /<command> [表情名称]
+  zz:
+    description: 显示插件作者信息
+    usage: /<command>
+  qxhelp:
+    description: 查看插件所有功能
+    usage: /<command>
