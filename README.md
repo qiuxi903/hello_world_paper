@@ -2,6 +2,7 @@
 一个叫hello_world/你好世界的Minecraftpaper端的服务器插件
 源文件在hello_world_paper文件夹中，你可以直接下载他，或者下载我提供的压缩包
 此插件的核心功能有
+
 1.
    /hello - 显示欢迎标题，支持四种参数扩展：
    
