@@ -1,5 +1,5 @@
 # hello_world_paper
-一个叫hello_world/你好世界的Minecraftpaper端的服务器插件
+一个叫hello_world/你好世界的Minecraftpaper端的服务器插件，支持1.16.5~1.21.8的paper和spigot核心
 源文件在hello_world_paper文件夹中，你可以直接下载他，或者下载我提供的压缩包
 此插件的核心功能有
 
